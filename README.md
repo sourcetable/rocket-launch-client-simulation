@@ -11,9 +11,13 @@ Create a simple app that displayed rocket launches since 1959 for a given __date
 * Percent of launches where `mission_status` is `Success`
 * The most popular month for rocket launches in that date range
 * Top three `launch_locations`
-* Top three __countries__ where `launch_locations` take place put on a visual map
+* Top three __countries__ where `launch_locations` take place put on a visual map (We suggest [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/))
+
 
 Your application should be written for the browser in any framework you choose (or no framework). The simulation should take less than three hours to complete.
+
+### MAP
+Please use the mapbox
 
 ### Running the API
 You will need to launch a local version of the API.  You can find the instructions to launch this API [here](https://github.com/sourcetable/Samples.RocketLaunches).
