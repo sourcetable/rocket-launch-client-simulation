@@ -18,7 +18,7 @@ Your application should be written for the browser in any framework you choose (
 ### MAP
 You are welcome to use any mapping service you like. To save you time, and the requirement to add your credit card to some services, we have create a [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/) API key which you are welcome to use. This will be included in our email to you.
 
-### Running the API
+### Running the Rocket Launch API
 You will need to launch a local version of the API.  You can find the instructions to launch this API [here](https://github.com/sourcetable/Samples.RocketLaunches).
 
 ### Communication
