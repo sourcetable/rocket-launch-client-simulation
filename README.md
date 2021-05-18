@@ -34,4 +34,4 @@ Please reach out via text or email with any clarifying questions while you compl
 
 ### How to submit your solution
 * Make a private fork or clone of this repo
-* When you're done, invite [@jeffj](https://github.com/jeffj) as a [admin](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to your repo and send __jeff@sourcetable.com__ an email.
+* When you're done, invite [@mceoin](https://github.com/jeffj) as a [admin](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to your repo and send __eoin@sourcetable.com__ an email.
